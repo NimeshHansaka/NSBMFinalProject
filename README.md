@@ -1,8 +1,4 @@
 "# NSBMFinalProject" 
-
-
-
-
 # Yolov8FoodDetectionAndBillingWebApplication
 
 # Install  and setup these Softwares
