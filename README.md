@@ -1,19 +1,22 @@
-"# NSBMFinalProject" 
-# Yolov8FoodDetectionAndBillingWebApplication
 
-# Install  and setup these Softwares
+# Automated Food Detection And Billin Sysytem
 
-Node.js version 14 or higher
 
-npm package manager
- 
-Python 3.x
- 
-MongoDB database
 
-Firebase account (for Firebase integration)
- 
+## MERN Stack React Application with Python Backend
 
+This is a full-stack web application built using the MERN (MongoDB, Express.js, React.js, Node.js) stack with a Python backend.
+
+
+
+## Technologies Used
+- MongoDB: Document database
+- Express.js: Node.js web application framework
+- React.js: Frontend library
+- Node.js: JavaScript runtime
+- Python: Backend scripting language
+
+Setup Environment Installing these Software.
 
 # Run Locally
 
